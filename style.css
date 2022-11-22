@@ -28,13 +28,6 @@ h3 {
     font-size: 25px;
 }
 
-/*.onee {
-    margin-top: 50px;
-   margin-left: 350px;
-   width: 800px;
-   height: 450px;
-}*/
-
 .button {
     display: flex;
     margin-left: 470px;
@@ -43,11 +36,10 @@ h3 {
 
 .btn {
     text-decoration: none;
-    background: white;
+    background: rgb(235, 235, 235);
     border-radius: 100px;
     font-size: 18px;
     color: rgb(72, 71, 71);
-    text-decoration: none;
     padding: 22px 0;
     font-weight: 700;
     line-height: 1.19em;
@@ -56,9 +48,7 @@ h3 {
     text-align: center;
     transition: all 0.5s ease;
     margin-top: 50px;
-    margin-left: 30px;
-    
-    
+    margin-left: 30px; 
 }
 
 .btn:hover {
@@ -66,21 +56,39 @@ h3 {
 }
 
 .name {
-    margin-top: 300px;
+    margin-top: 400px;
     font-size: 150px;
-}
-
-.sait {
-    color: white;
-    text-decoration: none;
-    margin-left: 350px;
-    font-size: 30px;
-    
+    margin-left: 440px;
+    color: rgb(227, 227, 227);
 }
 
 .photo {
-    width: 750px;
+    width: 700px;
     height: 400px;
-    margin-top: 20px;
-    margin-left: 350px;
+    margin-top: 30px;
+    margin-left: 430px;
+    border-radius: 50px;
+}
+
+.sait {
+    font-style: oblique;
+    color: rgb(72, 71, 71);
+    text-decoration: none;
+    margin-left: 450px; 
+    display: block;
+    margin-top: 20px; 
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 15px 0;
+    font-weight: 700;
+    line-height: 1.19em;
+    display: block;
+    width: 216px;
+    text-align: center;
+    transition: all 0.5s ease;
+}
+
+.sait:hover {
+    background: rgb(184, 184, 184);
 }
