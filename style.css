@@ -72,10 +72,14 @@ h3 {
 
 .sait {
     color: white;
+    text-decoration: none;
+    margin-left: 350px;
+    font-size: 30px;
 }
 
 .photo {
-    width: 400px;
-    height: 400px;
+    width: 800px;
+    height: 500px;
     margin-top: 30px;
+    margin-left: 350px;
 }
