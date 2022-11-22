@@ -92,3 +92,55 @@ h3 {
 .sait:hover {
     background: rgb(184, 184, 184);
 }
+
+/* Large: 992px - 1199px */
+@media (max-width: 1199px) {
+}
+
+/* Medium: 768px - 991px */
+@media (max-width: 991px) {
+    h1 {
+    margin-left: 200px;
+    margin-top: 40px;
+    font-size: 60px;  
+    }
+
+    h3 {
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: 30px;
+    padding: 10px 0;
+    }
+
+    .btn {
+    margin: 0 auto;
+    margin-right: -350px;
+    margin-left: -70px;
+    margin-top: 40px;
+    }
+    
+   .photo {
+    margin-left: 50px;
+    
+   } 
+   .name {
+    margin-left: 50px;
+   }
+   
+   .sait {
+    margin-left: 50px;
+   }
+}
+
+/* Small: 576px - 767px */
+@media (max-width: 767px) {
+    
+}
+
+/* Extra small: 0px (320px) - 575px */
+@media (max-width: 575px) {
+    h1 {
+        font-size: 45px;
+    }
+  
+}
