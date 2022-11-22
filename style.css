@@ -103,6 +103,10 @@ h3 {
         margin-left: 350px;
         font-size: 100px;
     }
+    h3 {
+    margin-left: 365px;
+    font-size: 35px;
+    }
 }
 
 /* Small: 576px - 767px */
