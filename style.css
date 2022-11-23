@@ -100,19 +100,26 @@ h3 {
 /* Medium: 768px - 991px */
 @media (max-width: 991px) {
     h1 {
-    margin-left: 350px;
+    margin-left: 200px;
     font-size: 100px;
     }
     h3 {
-    margin-left: 365px;
+    margin-left: 200px;
     font-size: 35px;
     }
     .button {
-    margin-left: 330px;
+    margin-left: 170px;
     }
     .name {
-    margin-top: 250px;
-    margin-left: 370px;
+    margin-top: 140px;
+    margin-left: 110px;
+    }
+    .photo {
+    margin-left: 40px;
+    margin-top: 20px;
+    }
+    .sait {
+    margin-left: 60px;
     }
 }
 
