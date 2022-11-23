@@ -104,44 +104,44 @@ h3 {
         font-size: 40px;
     }
     .button {
-        margin-left: 240px;
+        margin-left: 250px;
     }
     .name {
         margin-top: 140px;
-        margin-left: 110px;
+        margin-left: 260px;
     }
     .photo {
-        margin-left: 40px;
+        margin-left: 195px;
         margin-top: 20px;
     }
     .sait {
-        margin-left: 60px;
-        }
+        margin-left: 210px;  
+    }  
 }
 
 /* Medium: 768px - 991px */
 @media (max-width: 991px) {
     h1 {
-    margin-left: 200px;
-    font-size: 100px;
+       margin-left: 200px;
+       font-size: 100px;
     }
     h3 {
-    margin-left: 200px;
-    font-size: 35px;
+       margin-left: 200px;
+       font-size: 35px;
     }
     .button {
-    margin-left: 170px;
+       margin-left: 170px;
     }
     .name {
-    margin-top: 140px;
-    margin-left: 110px;
+       margin-top: 140px;
+       margin-left: 110px;
     }
     .photo {
-    margin-left: 40px;
-    margin-top: 20px;
+       margin-left: 40px;
+       margin-top: 20px;
     }
     .sait {
-    margin-left: 60px;
+        margin-left: 60px;
     }
 }
 
@@ -152,6 +152,29 @@ h3 {
 
 /* Extra small: 0px (320px) - 575px */
 @media (max-width: 575px) {
-    
+    h1 {
+        margin-left: 130px;
+    }
+    h3 {
+        display: flex;
+        margin-left: 140px;
+        font-size: 35px;
+    }
+    .button {
+        margin-left: 100px;
+        display: block;
+        flex-direction: column;
+    }
+    .name {
+        margin-top: 140px;
+        margin-left: 110px;
+        }
+    .photo {
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+    .sait {
+        margin-left: 60px;
+     }
   
 }
