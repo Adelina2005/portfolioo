@@ -95,6 +95,14 @@ h3 {
 
 /* Large: 992px - 1199px */
 @media (max-width: 1199px) {
+    h1 {
+        margin-left: 340px;
+        font-size: 100px;
+    }
+    h3 {
+        margin-left: 350px;
+        font-size: 40px;
+    }
 }
 
 /* Medium: 768px - 991px */
