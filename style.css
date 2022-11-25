@@ -93,6 +93,14 @@ h3 {
     background: rgb(184, 184, 184);
 }
 
+.photo {
+    width: 200px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: 430px;
+    border-radius: 50px;
+}
+
 /* Large: 992px - 1199px */
 @media (max-width: 1199px) {
     h1 {
